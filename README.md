@@ -1,4 +1,4 @@
-# 📘 LeetCode Solutions by Iqra Waqas
+# 📘 LeetCode Solutions by IQRA MANZOOR
 
 ## 🟢 Easy Problems
 
