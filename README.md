@@ -1,4 +1,4 @@
-# 📘 LeetCode Solutions by IQRA MANZOOR
+# 📘 LeetCode Solutions by Iqra Waqas
 
 ## 🟢 Easy Problems
 
@@ -34,6 +34,7 @@
 | 28 | Sort Array By Parity | [Problem](https://leetcode.com/problems/-sort-array-by-parity/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Easy]_Sort_Array_By_Parity.cpp) | C++ |
 | 29 | Squares of a Sorted Array | [Problem](https://leetcode.com/problems/-squares-of-a-sorted-array/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Easy]_Squares_of_a_Sorted_Array.py) | Python |
 | 30 | Two Sum | [Problem](https://leetcode.com/problems/-two-sum/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Easy]_Two_Sum.cpp) | C++ |
+| 31 | Valid Word | [Problem](https://leetcode.com/problems/-valid-word/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Easy]_Valid_Word.py) | Python |
 
 ## 🟡 Medium Problems
 
@@ -43,14 +44,16 @@
 | 2 | Binary Subarrays With Sum | [Problem](https://leetcode.com/problems/-binary-subarrays-with-sum/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Binary_Subarrays_With_Sum.py) | Python |
 | 3 | Car Pooling | [Problem](https://leetcode.com/problems/-car-pooling/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Car_Pooling.py) | Python |
 | 4 | Corporate Flight Bookings | [Problem](https://leetcode.com/problems/-corporate-flight-bookings/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Corporate_Flight_Bookings.py) | Python |
-| 5 | Find Minimum in Rotated Sorted Array | [Problem](https://leetcode.com/problems/-find-minimum-in-rotated-sorted-array/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Find_Minimum_in_Rotated_Sorted_Array.py) | Python |
-| 6 | Find the Duplicate Number | [Problem](https://leetcode.com/problems/-find-the-duplicate-number/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Find_the_Duplicate_Number.py) | Python |
-| 7 | Maximum Product Subarray | [Problem](https://leetcode.com/problems/-maximum-product-subarray/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Maximum_Product_Subarray.py) | Python |
-| 8 | Maximum Subarray | [Problem](https://leetcode.com/problems/-maximum-subarray/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Maximum_Subarray.py) | Python |
-| 9 | Remove Duplicates from Sorted Array II | [Problem](https://leetcode.com/problems/-remove-duplicates-from-sorted-array-ii/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Remove_Duplicates_from_Sorted_Array_II.py) | Python |
-| 10 | Rotate Array | [Problem](https://leetcode.com/problems/-rotate-array/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Rotate_Array.py) | Python |
-| 11 | Search in Rotated Sorted Array | [Problem](https://leetcode.com/problems/-search-in-rotated-sorted-array/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Search_in_Rotated_Sorted_Array.py) | Python |
-| 12 | Sort Characters By Frequency | [Problem](https://leetcode.com/problems/-sort-characters-by-frequency/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Sort_Characters_By_Frequency.py) | Python |
-| 13 | Top K Frequent Elements | [Problem](https://leetcode.com/problems/-top-k-frequent-elements/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Top_K_Frequent_Elements.py) | Python |
-| 14 | Two Sum II   Input Array Is Sorted | [Problem](https://leetcode.com/problems/-two-sum-ii---input-array-is-sorted/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Two_Sum_II___Input_Array_Is_Sorted.py) | Python |
+| 5 | Count Number of Nice Subarrays | [Problem](https://leetcode.com/problems/-count-number-of-nice-subarrays/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Count_Number_of_Nice_Subarrays.py) | Python |
+| 6 | Find Minimum in Rotated Sorted Array | [Problem](https://leetcode.com/problems/-find-minimum-in-rotated-sorted-array/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Find_Minimum_in_Rotated_Sorted_Array.py) | Python |
+| 7 | Find the Duplicate Number | [Problem](https://leetcode.com/problems/-find-the-duplicate-number/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Find_the_Duplicate_Number.py) | Python |
+| 8 | Maximum Product Subarray | [Problem](https://leetcode.com/problems/-maximum-product-subarray/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Maximum_Product_Subarray.py) | Python |
+| 9 | Maximum Subarray | [Problem](https://leetcode.com/problems/-maximum-subarray/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Maximum_Subarray.py) | Python |
+| 10 | Remove Duplicates from Sorted Array II | [Problem](https://leetcode.com/problems/-remove-duplicates-from-sorted-array-ii/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Remove_Duplicates_from_Sorted_Array_II.py) | Python |
+| 11 | Rotate Array | [Problem](https://leetcode.com/problems/-rotate-array/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Rotate_Array.py) | Python |
+| 12 | Search in Rotated Sorted Array | [Problem](https://leetcode.com/problems/-search-in-rotated-sorted-array/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Search_in_Rotated_Sorted_Array.py) | Python |
+| 13 | Sort Characters By Frequency | [Problem](https://leetcode.com/problems/-sort-characters-by-frequency/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Sort_Characters_By_Frequency.py) | Python |
+| 14 | Subarray Sum Equals K | [Problem](https://leetcode.com/problems/-subarray-sum-equals-k/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Subarray_Sum_Equals_K.py) | Python |
+| 15 | Top K Frequent Elements | [Problem](https://leetcode.com/problems/-top-k-frequent-elements/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Top_K_Frequent_Elements.py) | Python |
+| 16 | Two Sum II   Input Array Is Sorted | [Problem](https://leetcode.com/problems/-two-sum-ii---input-array-is-sorted/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Two_Sum_II___Input_Array_Is_Sorted.py) | Python |
 
