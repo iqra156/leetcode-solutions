@@ -1,4 +1,4 @@
-# 📘 LeetCode Solutions by Iqra Waqas
+# 📘 LeetCode Solutions by Iqra Manzoor
 
 ## 🟢 Easy Problems
 
@@ -35,6 +35,7 @@
 | 29 | Squares of a Sorted Array | [Problem](https://leetcode.com/problems/-squares-of-a-sorted-array/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Easy]_Squares_of_a_Sorted_Array.py) | Python |
 | 30 | Two Sum | [Problem](https://leetcode.com/problems/-two-sum/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Easy]_Two_Sum.cpp) | C++ |
 | 31 | Valid Word | [Problem](https://leetcode.com/problems/-valid-word/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Easy]_Valid_Word.py) | Python |
+| 32 | Word Pattern | [Problem](https://leetcode.com/problems/-word-pattern/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Easy]_Word_Pattern.py) | Python |
 
 ## 🟡 Medium Problems
 
