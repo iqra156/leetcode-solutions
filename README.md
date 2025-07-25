@@ -41,24 +41,27 @@
 
 | # | Problem Name | LeetCode Link | Code | Language |
 |---|--------------|----------------|------|----------|
-| 1 | Average Waiting Time | [Problem](https://leetcode.com/problems/-average-waiting-time/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Average_Waiting_Time.cpp) | C++ |
-| 2 | Binary Subarrays With Sum | [Problem](https://leetcode.com/problems/-binary-subarrays-with-sum/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Binary_Subarrays_With_Sum.py) | Python |
-| 3 | Car Pooling | [Problem](https://leetcode.com/problems/-car-pooling/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Car_Pooling.py) | Python |
-| 4 | Contiguous Array | [Problem](https://leetcode.com/problems/-contiguous-array/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Contiguous_Array.py) | Python |
-| 5 | Corporate Flight Bookings | [Problem](https://leetcode.com/problems/-corporate-flight-bookings/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Corporate_Flight_Bookings.py) | Python |
-| 6 | Count Number of Nice Subarrays | [Problem](https://leetcode.com/problems/-count-number-of-nice-subarrays/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Count_Number_of_Nice_Subarrays.py) | Python |
-| 7 | Find Minimum in Rotated Sorted Array | [Problem](https://leetcode.com/problems/-find-minimum-in-rotated-sorted-array/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Find_Minimum_in_Rotated_Sorted_Array.py) | Python |
-| 8 | Find the Duplicate Number | [Problem](https://leetcode.com/problems/-find-the-duplicate-number/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Find_the_Duplicate_Number.py) | Python |
-| 9 | Find the Longest Substring Containing Vowels in Even Counts | [Problem](https://leetcode.com/problems/-find-the-longest-substring-containing-vowels-in-even-counts/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Find_the_Longest_Substring_Containing_Vowels_in_Even_Counts.py) | Python |
-| 10 | Group Anagrams | [Problem](https://leetcode.com/problems/-group-anagrams/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Group_Anagrams.py) | Python |
-| 11 | Maximum Product Subarray | [Problem](https://leetcode.com/problems/-maximum-product-subarray/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Maximum_Product_Subarray.py) | Python |
-| 12 | Maximum Subarray | [Problem](https://leetcode.com/problems/-maximum-subarray/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Maximum_Subarray.py) | Python |
-| 13 | Remove Duplicates from Sorted Array II | [Problem](https://leetcode.com/problems/-remove-duplicates-from-sorted-array-ii/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Remove_Duplicates_from_Sorted_Array_II.py) | Python |
-| 14 | Rotate Array | [Problem](https://leetcode.com/problems/-rotate-array/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Rotate_Array.py) | Python |
-| 15 | Search in Rotated Sorted Array | [Problem](https://leetcode.com/problems/-search-in-rotated-sorted-array/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Search_in_Rotated_Sorted_Array.py) | Python |
-| 16 | Sort Characters By Frequency | [Problem](https://leetcode.com/problems/-sort-characters-by-frequency/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Sort_Characters_By_Frequency.py) | Python |
-| 17 | Subarray Sums Divisible by K | [Problem](https://leetcode.com/problems/-subarray-sums-divisible-by-k/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Subarray_Sums_Divisible_by_K.py) | Python |
-| 18 | Subarray Sum Equals K | [Problem](https://leetcode.com/problems/-subarray-sum-equals-k/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Subarray_Sum_Equals_K.py) | Python |
-| 19 | Top K Frequent Elements | [Problem](https://leetcode.com/problems/-top-k-frequent-elements/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Top_K_Frequent_Elements.py) | Python |
-| 20 | Two Sum II   Input Array Is Sorted | [Problem](https://leetcode.com/problems/-two-sum-ii---input-array-is-sorted/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Two_Sum_II___Input_Array_Is_Sorted.py) | Python |
+| 1 | 3Sum | [Problem](https://leetcode.com/problems/-3sum/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_3Sum.py) | Python |
+| 2 | 3Sum Closest | [Problem](https://leetcode.com/problems/-3sum-closest/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_3Sum_Closest.py) | Python |
+| 3 | 4Sum | [Problem](https://leetcode.com/problems/-4sum/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_4Sum.py) | Python |
+| 4 | Average Waiting Time | [Problem](https://leetcode.com/problems/-average-waiting-time/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Average_Waiting_Time.cpp) | C++ |
+| 5 | Binary Subarrays With Sum | [Problem](https://leetcode.com/problems/-binary-subarrays-with-sum/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Binary_Subarrays_With_Sum.py) | Python |
+| 6 | Car Pooling | [Problem](https://leetcode.com/problems/-car-pooling/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Car_Pooling.py) | Python |
+| 7 | Contiguous Array | [Problem](https://leetcode.com/problems/-contiguous-array/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Contiguous_Array.py) | Python |
+| 8 | Corporate Flight Bookings | [Problem](https://leetcode.com/problems/-corporate-flight-bookings/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Corporate_Flight_Bookings.py) | Python |
+| 9 | Count Number of Nice Subarrays | [Problem](https://leetcode.com/problems/-count-number-of-nice-subarrays/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Count_Number_of_Nice_Subarrays.py) | Python |
+| 10 | Find Minimum in Rotated Sorted Array | [Problem](https://leetcode.com/problems/-find-minimum-in-rotated-sorted-array/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Find_Minimum_in_Rotated_Sorted_Array.py) | Python |
+| 11 | Find the Duplicate Number | [Problem](https://leetcode.com/problems/-find-the-duplicate-number/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Find_the_Duplicate_Number.py) | Python |
+| 12 | Find the Longest Substring Containing Vowels in Even Counts | [Problem](https://leetcode.com/problems/-find-the-longest-substring-containing-vowels-in-even-counts/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Find_the_Longest_Substring_Containing_Vowels_in_Even_Counts.py) | Python |
+| 13 | Group Anagrams | [Problem](https://leetcode.com/problems/-group-anagrams/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Group_Anagrams.py) | Python |
+| 14 | Maximum Product Subarray | [Problem](https://leetcode.com/problems/-maximum-product-subarray/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Maximum_Product_Subarray.py) | Python |
+| 15 | Maximum Subarray | [Problem](https://leetcode.com/problems/-maximum-subarray/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Maximum_Subarray.py) | Python |
+| 16 | Remove Duplicates from Sorted Array II | [Problem](https://leetcode.com/problems/-remove-duplicates-from-sorted-array-ii/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Remove_Duplicates_from_Sorted_Array_II.py) | Python |
+| 17 | Rotate Array | [Problem](https://leetcode.com/problems/-rotate-array/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Rotate_Array.py) | Python |
+| 18 | Search in Rotated Sorted Array | [Problem](https://leetcode.com/problems/-search-in-rotated-sorted-array/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Search_in_Rotated_Sorted_Array.py) | Python |
+| 19 | Sort Characters By Frequency | [Problem](https://leetcode.com/problems/-sort-characters-by-frequency/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Sort_Characters_By_Frequency.py) | Python |
+| 20 | Subarray Sums Divisible by K | [Problem](https://leetcode.com/problems/-subarray-sums-divisible-by-k/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Subarray_Sums_Divisible_by_K.py) | Python |
+| 21 | Subarray Sum Equals K | [Problem](https://leetcode.com/problems/-subarray-sum-equals-k/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Subarray_Sum_Equals_K.py) | Python |
+| 22 | Top K Frequent Elements | [Problem](https://leetcode.com/problems/-top-k-frequent-elements/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Top_K_Frequent_Elements.py) | Python |
+| 23 | Two Sum II   Input Array Is Sorted | [Problem](https://leetcode.com/problems/-two-sum-ii---input-array-is-sorted/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Medium]_Two_Sum_II___Input_Array_Is_Sorted.py) | Python |
 
