@@ -28,14 +28,16 @@
 | 22 | Replace Elements with Greatest Element on Right Side | [Problem](https://leetcode.com/problems/-replace-elements-with-greatest-element-on-right-side/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Easy]_Replace_Elements_with_Greatest_Element_on_Right_Side.py) | Python |
 | 23 | Reverse Linked List | [Problem](https://leetcode.com/problems/-reverse-linked-list/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Easy]_Reverse_Linked_List.cpp) | C++ |
 | 24 | Reverse String | [Problem](https://leetcode.com/problems/-reverse-string/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Easy]_Reverse_String.cpp) | C++ |
-| 25 | Running Sum of 1d Array | [Problem](https://leetcode.com/problems/-running-sum-of-1d-array/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Easy]_Running_Sum_of_1d_Array.cpp) | C++ |
-| 26 | Search Insert Position | [Problem](https://leetcode.com/problems/-search-insert-position/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Easy]_Search_Insert_Position.py) | Python |
-| 27 | Shuffle the Array | [Problem](https://leetcode.com/problems/-shuffle-the-array/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Easy]_Shuffle_the_Array.py) | Python |
-| 28 | Sort Array By Parity | [Problem](https://leetcode.com/problems/-sort-array-by-parity/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Easy]_Sort_Array_By_Parity.cpp) | C++ |
-| 29 | Squares of a Sorted Array | [Problem](https://leetcode.com/problems/-squares-of-a-sorted-array/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Easy]_Squares_of_a_Sorted_Array.py) | Python |
-| 30 | Two Sum | [Problem](https://leetcode.com/problems/-two-sum/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Easy]_Two_Sum.cpp) | C++ |
-| 31 | Valid Word | [Problem](https://leetcode.com/problems/-valid-word/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Easy]_Valid_Word.py) | Python |
-| 32 | Word Pattern | [Problem](https://leetcode.com/problems/-word-pattern/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Easy]_Word_Pattern.py) | Python |
+| 25 | Reverse Vowels of a String | [Problem](https://leetcode.com/problems/-reverse-vowels-of-a-string/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Easy]_Reverse_Vowels_of_a_String.py) | Python |
+| 26 | Running Sum of 1d Array | [Problem](https://leetcode.com/problems/-running-sum-of-1d-array/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Easy]_Running_Sum_of_1d_Array.cpp) | C++ |
+| 27 | Search Insert Position | [Problem](https://leetcode.com/problems/-search-insert-position/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Easy]_Search_Insert_Position.py) | Python |
+| 28 | Shuffle the Array | [Problem](https://leetcode.com/problems/-shuffle-the-array/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Easy]_Shuffle_the_Array.py) | Python |
+| 29 | Sort Array By Parity | [Problem](https://leetcode.com/problems/-sort-array-by-parity/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Easy]_Sort_Array_By_Parity.cpp) | C++ |
+| 30 | Squares of a Sorted Array | [Problem](https://leetcode.com/problems/-squares-of-a-sorted-array/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Easy]_Squares_of_a_Sorted_Array.py) | Python |
+| 31 | Two Sum | [Problem](https://leetcode.com/problems/-two-sum/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Easy]_Two_Sum.cpp) | C++ |
+| 32 | Valid Palindrome | [Problem](https://leetcode.com/problems/-valid-palindrome/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Easy]_Valid_Palindrome.py) | Python |
+| 33 | Valid Word | [Problem](https://leetcode.com/problems/-valid-word/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Easy]_Valid_Word.py) | Python |
+| 34 | Word Pattern | [Problem](https://leetcode.com/problems/-word-pattern/) | [Code](https://github.com/iqra156/leetcode-solutions/blob/main/[Easy]_Word_Pattern.py) | Python |
 
 ## 🟡 Medium Problems
 
